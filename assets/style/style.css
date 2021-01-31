@@ -459,6 +459,21 @@ margin-top:10px ;
     float: none;
     width: 100%;
   }
+  .merch-item{
+    float: left;
+    width: 49.5%;
+  }
+  .item2, .item6{
+   margin-right: 0;
+  }
+  .left-form, .right-form{
+    float: none;
+    width: 100%;
+  }
+  .opening,.latest-post,.contact,.location{
+    float: none;
+    width: 100%;
+  }
 }
   
     
